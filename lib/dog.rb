@@ -9,3 +9,6 @@
 #   end
 
 # end
+
+def class Dog
+end
